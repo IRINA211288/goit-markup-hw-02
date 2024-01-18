@@ -6,7 +6,7 @@ ul {
   list-style-type: none;
 }
 body {
-  font-family: "Roboto", sans-serif;
+  font-family:'Raleway', sans-serif;
 }
 .header-menu-item {
   color: var(--NAVY-BLUE, #2e2f42);
@@ -14,4 +14,4 @@ body {
   font-weight: 500;
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
-}
+
