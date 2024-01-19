@@ -94,7 +94,6 @@ body {
   border-radius: 4px;
   background: #4d5ae5;
   cursor: pointer;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .slogan-button:hover,
 .slogan-button:focus {
@@ -131,7 +130,7 @@ body {
 
 /***********section3**************/
 .meta {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .meta-caption {
@@ -142,14 +141,13 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  background-color: #f4f4fd;
 }
 
 .meta-list {
-  background-color: #ffffff;
 }
 
 .meta-item {
+  background-color: #ffffff;
 }
 
 .meta-title {
@@ -167,7 +165,6 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  background-color: #ffffff;
 }
 
 /*************************/
