@@ -131,7 +131,7 @@ body {
 
 /***********section3**************/
 .meta {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
 }
 
 .meta-caption {
@@ -142,7 +142,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 
 .meta-list {
