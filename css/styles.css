@@ -96,7 +96,8 @@ body {
   cursor: pointer;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
-.slogan-button:hover {
+.slogan-button:hover,
+.slogan-button:focus {
   background-color: #404bbf;
 }
 /*************************/
