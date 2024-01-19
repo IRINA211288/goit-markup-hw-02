@@ -77,10 +77,26 @@ body {
 }
 
 .slogan-text {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 10.7;
+  letter-spacing: 0.02em;
+  background: #2e2f42;
 }
 
 .slogan-button {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
+
 /*************************/
 
 /***********section2**************/
@@ -94,17 +110,35 @@ body {
 }
 
 .desc-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .desc-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /*************************/
 
 /***********section3**************/
 .meta {
+  background: #f4f4fd;
 }
 
 .meta-caption {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 11.1;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .meta-list {
@@ -114,9 +148,19 @@ body {
 }
 
 .meta-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .meta-text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /*************************/
 
@@ -125,6 +169,13 @@ body {
 }
 
 .portfolio-caption {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 11.1;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .portfolio-list {
@@ -134,18 +185,44 @@ body {
 }
 
 .portfolio-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-texts {
+  color: var(--SLATE, #434455);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /*************************/
 
 /**********footer***************/
 .footer {
+  background: #2e2f42;
 }
 
 .footer-link {
+  color: #f4f4fd;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 11.7;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.footer-link span {
+  color: #4d5ae5;
 }
 
 .footer-texts {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
